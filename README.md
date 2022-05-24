@@ -5,3 +5,4 @@
 # python3 fuck.py
 
 # Happy Fun 🤘
+# JANGAN DI PERJUAL BELIKAN KNTOL
