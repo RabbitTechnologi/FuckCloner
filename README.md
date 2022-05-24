@@ -7,7 +7,9 @@ Saya tidak menyuruh anda untuk melakukan
 Tindakan yang berhubungan merugikan orang lain
 
  git clone https://github.com/MRZOK3R/FuckCloner
+
  cd FuckCloner
+
  python3 fuck.py
 
 # Happy Fun 🤘
